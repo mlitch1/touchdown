@@ -1,0 +1,23 @@
+
+export const sampleFlashcardSet = [
+  { front: 'Dump Truck', back: 'A big truck that carries loose materials like dirt or gravel.' },
+  { front: 'Bulldozer', back: 'A powerful machine that pushes rocks and dirt around.' },
+  { front: 'Excavator', back: 'A digging machine with a big arm and bucket.' },
+  { front: 'Cement Mixer', back: 'A truck that mixes concrete while driving to the job site.' },
+  { front: 'Backhoe', back: 'A tractor with a digging bucket on the back and a loader on the front.' },
+  { front: 'Flatbed Truck', back: 'A truck with a flat surface to carry large items.' },
+  { front: 'Fire Truck', back: 'A bright red truck with ladders and hoses to put out fires.' },
+  { front: 'Garbage Truck', back: 'A truck that collects and crushes trash.' },
+  { front: 'Tow Truck', back: 'A truck used to move broken-down vehicles.' },
+  { front: 'Monster Truck', back: 'A giant truck with huge tires used in shows and races.' },
+  { front: 'Snow Plow', back: 'A truck that clears snow from roads.' },
+  { front: 'Delivery Van', back: 'A van that delivers packages.' },
+  { front: 'Oil Tanker', back: 'A truck that carries fuel or oil.' },
+  { front: 'Logging Truck', back: 'A truck that hauls logs from forests.' },
+  { front: 'Box Truck', back: 'A truck with a large cargo area like a box.' },
+  { front: 'Crane Truck', back: 'A truck with a crane to lift heavy objects.' },
+  { front: 'Mail Truck', back: 'A truck that delivers mail to homes.' },
+  { front: 'Pickup Truck', back: 'A small truck with an open back to carry stuff.' },
+  { front: 'Water Truck', back: 'A truck that carries water, often used in construction or farming.' },
+  { front: 'Recycling Truck', back: 'A truck that collects items to be recycled.' },
+];
